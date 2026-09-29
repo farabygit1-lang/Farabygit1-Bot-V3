@@ -9,7 +9,7 @@ module.exports = {
         config: {
                 name: "play",
                 version: "1.7",
-                author: "MahMUD",
+                author: "Faraby",
                 countDown: 10,
                 role: 0,
                 description: {
