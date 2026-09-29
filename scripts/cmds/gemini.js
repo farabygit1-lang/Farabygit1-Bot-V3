@@ -9,7 +9,7 @@ module.exports = {
         config: {
                 name: "gemini",
                 version: "3.7",
-                author: "MahMUD",
+                author: "Faraby",
                 countDown: 10,
                 role: 0,
                 category: "ai",
@@ -25,12 +25,12 @@ module.exports = {
                 en: {
                         noPrompt: "• Baby, please provide a question\n\nExample: {pn} Who are you?",
                         noResponse: "× No response received from AI.",
-                        error: "× API error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139"
+                        error: "× API error: %1. Contact Faraby for help.\n•WhatsApp: 01757547364"
                 },
                 vi: {
                         noPrompt: "• Cưng ơi, vui lòng nhập câu hỏi! Ví dụ: {pn} Bạn là ai?",
                         noResponse: "× Không nhận được phản hồi từ AI.",
-                        error: "× Lỗi API: %1. Liên hệ MahMUD để được trợ giúp.\n•WhatsApp: 01836298139"
+                        error: "× Lỗi API: %1. Liên hệ Faraby để được trợ giúp.\n•WhatsApp: 01757547364"
                 }
         },
 
