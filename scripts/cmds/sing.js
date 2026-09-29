@@ -6,7 +6,7 @@ module.exports = {
         config: {
                 name: "sing",
                 version: "5.5",
-                author: "MahMUD",
+                author: "Faraby",
                 countDown: 10,
                 role: 0,
                 description: "better then all sing",
@@ -29,13 +29,13 @@ module.exports = {
                         noInput: "× Baby, please provide a song or video name.",
                         success: "✅ | 𝐇𝐞𝐫𝐞'𝐬 𝐲𝐨𝐮𝐫 𝐬𝐨𝐧𝐠 𝐛𝐚𝐛𝐲\n• 𝐒𝐢𝐧𝐠 𝐕𝐞𝐫𝐬𝐢𝐨𝐧: %2\n• 𝐒𝐢𝐧𝐠 𝐓𝐲𝐩𝐞: %3\n• 𝐒𝐞𝐚𝐫𝐜𝐡: %1",
                         listFetchErr: "Failed to fetch the version list.",
-                        error: "× API error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139"
+                        error: "× API error: %1. Contact Faraby for help.\n•WhatsApp: 01757547364"
                 },
                 vi: {
                         noInput: "× Bé ơi, vui lòng nhập tên bài hát hoặc video.",
                         success: "✅ | 𝐁à𝐢 ðá𝐭 𝐜ủ𝐚 𝐛é đâ𝐲\n• 𝐏𝐡𝐢ê𝐧 𝐛ả𝐧: %2\n• 𝐋𝐨ạ𝐢: %3\n• 𝔗ì𝔪 𝔨𝔦ế𝔪: %1",
                         listFetchErr: "Không thể lấy danh sách phiên bản.",
-                        error: "× Lỗi API: %1. Liên hệ MahMUD để được giúp đỡ.\n•WhatsApp: 01836298139"
+                        error: "× Lỗi API: %1. Liên hệ MahMUD để được giúp đỡ.\n•WhatsApp: 01757547364"
                 }
         },
         onStart: async function ({ api, event, args, message, getLang }) {
